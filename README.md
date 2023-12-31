@@ -1,6 +1,6 @@
 # id_card_maker
 
-A new Flutter project.
+A new Flutter project for storing all your ID cards.
 
 ## Getting Started
 
